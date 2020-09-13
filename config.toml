@@ -30,7 +30,7 @@ paginate = 5
     title = "halo satrio"
     subtitle = ""
     keywords = ""
-    copyright = "© 2020 Satrio Bayu Aji . Powered by\u2004 <a href=\"https://gohugo.io/\">Hugo</a> . Theme\u2004 <a href=\"https://github.com/panr/hugo-theme-hello-friend\">Hello Friend</a>"
+    copyright = "<small>© 2020 ♥ Satrio Bayu Aji . Powered by <a href=\"https://gohugo.io/\">Hugo</a> . Theme <a href=\"https://github.com/panr/hugo-theme-hello-friend\">Hello Friend</a></small>"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
