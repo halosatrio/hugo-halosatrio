@@ -1,8 +1,8 @@
 ---
-title: "Tutorial: Working on Collaborative Project for Beginner 👨‍💻👩‍💻"
+title: "Working on Collaborative Project for Beginner 👨‍💻👩‍💻"
 date: 2020-11-22T00:56:44+07:00
 cover: "img/collaborative.jpg"
-description: "You may feel overwhelmed by your first collaborative project, but don't stop. Please just keep going, you may find great valuable lessons there. Fighting!! 💪💪"
+description: "You may feel overwhelmed by your first collaborative project, but please don't stop. Just keep going, you may find great valuable lessons there. Fighting!! 💪💪"
 author: Satrio
 draft: false
 toc: false
@@ -11,6 +11,9 @@ toc: false
 > _Photo by [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
 
 ---
+> ⚠️ Disclaimer ⚠️
+>
+> Saya bukanlah seorang veteran dalam hal collaborative works. Saat ini saya masih berada di tingkatan junior dev 😂. Point dari tulisan ini adalah sharing pengalaman dari seorang junior dev (saya) ke junior dev lain.
 
 Sudah hampir setahun saya menekuni web development, tetapi saya belum pernah mengerjakan proyek yang dikerjakan barengan orang banyak. Proyek-proyek yang pernah saya kerjakan adalah hasil kerjaan saya sendiri tanpa adanya kontributor lain. Saya pertama kali berkolaborasi pada sebuah proyek ketika saya bekerja. Sudah sekitar ±3 bulan ini saya mengerjakan sebuah proyek yang dikerjakan oleh tim kecil (±10 orang). Saya yang sebelumnya tidak pernah jadi kontributor di codebase orang lain merasa sangat tidak siap. Pikiran-pikiran impostor syndrome saya berisik di kepala seperti "gimana kalau nanti saya malah merusak codebase yang sudah jadi".
 
